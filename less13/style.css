@@ -1,0 +1,46 @@
+.red {
+  color: red;
+}
+.red:visited {
+  color: rgb(255, 143, 143);
+}
+.green {
+  color: chartreuse;
+}
+.green:hover {
+  color: green;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+.maline {
+  color: lawngreen;
+}
+.maline:active {
+  color: rgb(30, 41, 139);
+}
+.granny {
+  color: lawngreen;
+}
+.granny:focus {
+  color: rgb(143, 16, 111);
+}
+.blue {
+  color: blue;
+  front-size: 100%;
+}
+
+.blue {
+  font-size: 14px;
+  padding: 20px;
+}
+
+.blue:hover {
+  font-size: 40px;
+}
+.name {
+  height: 10px;
+  width: 80px;
+}
