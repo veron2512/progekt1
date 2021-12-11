@@ -1,0 +1,30 @@
+.img {
+  height: 300px;
+  width: 444px;
+}
+.btn {
+  border-radius: 20px;
+  position: relative;
+  left: 50px;
+  color: black;
+}
+.prise {
+  border-radius: 15px;
+  line-height: 20px;
+  padding: 10px;
+}
+.top {
+  background-color: rgb(173, 9, 214);
+  border-radius: 4px;
+  height: 20px;
+  width: 50px;
+  position: relative;
+  top: 5px;
+  left: 380px;
+}
+.icon:hover {
+  color: red;
+}
+.icons:hover {
+  color: rgb(34, 34, 226);
+}
